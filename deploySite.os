@@ -29,4 +29,4 @@
 	
 КонецФункции
 
-СобратьIndexPage("C:\Users\SuhAlex\Documents\byte-reports");
+СобратьIndexPage("C:\Users\Alexandr\Documents\byte-reports");
